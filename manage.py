@@ -1,4 +1,4 @@
-from Coffee import manager
+from coffee import manager
 from main import *
 
 

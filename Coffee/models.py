@@ -1,4 +1,4 @@
-from Coffee import db
+from coffee.app import db
 
 
 class Coffee(db.Model):

@@ -1,4 +1,4 @@
-from Coffee import app
+from coffee import app
 
 
 if __name__ == '__main__':

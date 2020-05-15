@@ -1,6 +1,6 @@
-from Coffee import app, db
+from coffee.app import app, db
 from flask import render_template, request, redirect
-from Coffee.models import Coffee
+from coffee.models import Coffee
 
 
 @app.route('/')

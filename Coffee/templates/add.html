@@ -1,0 +1,22 @@
+{% extends 'base.html' %}
+
+{% block title %}
+
+	Coffee
+
+{% endblock %}
+
+
+{% block content %}
+
+<div class="container mt-5">
+	<form method="POST">
+		<input type="text" name="name" id="name" class="form-control" placeholder="Enter type"><br>
+		<input name="price" id="price" class="form-control" placeholder="Enter price"><br>
+		<textarea name="structure" id="structure" class="form-control" placeholder="Enter structure"></textarea><br>
+		<input type="submit" class="btn btn-success" value="Send">
+
+	</form>
+</div>
+
+{% endblock %}

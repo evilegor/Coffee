@@ -20,7 +20,12 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="66381ce9-b8cb-405f-a3ba-819e3d2f4d7d" name="Default Changelist" comment="">
-      <change beforePath="$PROJECT_DIR$/1.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Coffee/app.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Coffee/config.py" beforeDir="false" afterPath="$PROJECT_DIR$/Coffee/config.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Coffee/templates/base.html" beforeDir="false" afterPath="$PROJECT_DIR$/Coffee/templates/base.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Coffee/templates/coffee.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Coffee/view.py" beforeDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -61,11 +66,11 @@
         <env name="PYTHONUNBUFFERED" value="1" />
       </envs>
       <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/Coffee" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/Coffee/main.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/main.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -101,25 +106,29 @@
     <option name="oldMeFiltersMigrated" value="true" />
   </component>
   <component name="WindowStateProjectService">
-    <state x="137" y="24" key="#com.intellij.execution.impl.EditConfigurationsDialog" timestamp="1589276748016">
+    <state x="137" y="24" key="#com.intellij.execution.impl.EditConfigurationsDialog" timestamp="1589305098162">
       <screen x="0" y="0" width="1366" height="738" />
     </state>
-    <state x="137" y="24" key="#com.intellij.execution.impl.EditConfigurationsDialog/0.0.1366.738@0.0.1366.738" timestamp="1589276748016" />
-    <state width="1345" height="281" key="GridCell.Tab.0.bottom" timestamp="1589283781411">
+    <state x="137" y="24" key="#com.intellij.execution.impl.EditConfigurationsDialog/0.0.1366.738@0.0.1366.738" timestamp="1589305098162" />
+    <state x="449" y="171" key="#com.intellij.fileTypes.FileTypeChooser" timestamp="1589495108370">
       <screen x="0" y="0" width="1366" height="738" />
     </state>
-    <state width="1345" height="281" key="GridCell.Tab.0.bottom/0.0.1366.738@0.0.1366.738" timestamp="1589283781411" />
-    <state width="1345" height="281" key="GridCell.Tab.0.center" timestamp="1589283781411">
+    <state x="449" y="171" key="#com.intellij.fileTypes.FileTypeChooser/0.0.1366.738@0.0.1366.738" timestamp="1589495108370" />
+    <state width="1345" height="190" key="GridCell.Tab.0.bottom" timestamp="1589566122425">
       <screen x="0" y="0" width="1366" height="738" />
     </state>
-    <state width="1345" height="281" key="GridCell.Tab.0.center/0.0.1366.738@0.0.1366.738" timestamp="1589283781411" />
-    <state width="1345" height="281" key="GridCell.Tab.0.left" timestamp="1589283781411">
+    <state width="1345" height="190" key="GridCell.Tab.0.bottom/0.0.1366.738@0.0.1366.738" timestamp="1589566122425" />
+    <state width="1345" height="190" key="GridCell.Tab.0.center" timestamp="1589566122425">
       <screen x="0" y="0" width="1366" height="738" />
     </state>
-    <state width="1345" height="281" key="GridCell.Tab.0.left/0.0.1366.738@0.0.1366.738" timestamp="1589283781411" />
-    <state width="1345" height="281" key="GridCell.Tab.0.right" timestamp="1589283781411">
+    <state width="1345" height="190" key="GridCell.Tab.0.center/0.0.1366.738@0.0.1366.738" timestamp="1589566122425" />
+    <state width="1345" height="190" key="GridCell.Tab.0.left" timestamp="1589566122425">
       <screen x="0" y="0" width="1366" height="738" />
     </state>
-    <state width="1345" height="281" key="GridCell.Tab.0.right/0.0.1366.738@0.0.1366.738" timestamp="1589283781411" />
+    <state width="1345" height="190" key="GridCell.Tab.0.left/0.0.1366.738@0.0.1366.738" timestamp="1589566122425" />
+    <state width="1345" height="190" key="GridCell.Tab.0.right" timestamp="1589566122425">
+      <screen x="0" y="0" width="1366" height="738" />
+    </state>
+    <state width="1345" height="190" key="GridCell.Tab.0.right/0.0.1366.738@0.0.1366.738" timestamp="1589566122425" />
   </component>
 </project>

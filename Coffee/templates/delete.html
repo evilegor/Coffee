@@ -1,0 +1,17 @@
+{% extends 'base.html' %}
+
+{% block title %}
+Delete
+{% endblock %}
+
+
+{% block content %}
+    <ul>
+    {% for item in items %}
+        <ul><a href="/delete/{{ item.name }}">{{ item.name }}</a></ul>
+            <li>{{ item.id }}</li>
+            <li>{{ item.price }}</li>
+            <li>{{ item.structure }}</li>
+    {% endfor %}
+    </ul>
+{% endblock %}
